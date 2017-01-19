@@ -4,7 +4,7 @@
 
 This is a software & hardware project for an automatic orientation-controlled turn & stop light mounted on bicycle gloves. Hence, the name [___cestus___](https://en.wikipedia.org/wiki/Cestus): the Latin word for a ___battle glove___ used by boxers and gladiators of ancient Greece and Rome. Seems appropriate, given how dangerous it can be to share the road in the U.S.
 
-![cestus](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Boxer_of_quirinal_hands.jpg/320px-Boxer_of_quirinal_hands.jpg)
+![cestus](media/cestus.jpg)
 
 ## Hardware Parts
 
